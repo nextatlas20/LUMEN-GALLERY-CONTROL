@@ -1,0 +1,6 @@
+gallery_id	gallery_name	wing	final_state	closed_since	closing_event_id	applied_transitions	redundant_events
+G-A1	Amber Room	East	CLOSED	2026-10-17T12:00:00Z	E-121	3	1
+G-A2	Map Gallery	East	CLOSED	2026-10-17T11:10:00Z	E-116	1	2
+G-N1	Night Sky	North	OPEN	-	-	2	1
+G-S1	Sculpture Court	South	OPEN	-	-	2	0
+G-S2	Textile Hall	South	CLOSED	2026-10-17T11:40:00Z	E-119	3	0
